@@ -1,6 +1,6 @@
 # Assigment_1_3
 Team members:
-Ethan
-Vraj
-Hebron
-Jerry
+Ethan,
+Vra,
+Hebron,
+Jerry,
